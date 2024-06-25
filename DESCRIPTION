@@ -1,0 +1,11 @@
+Package: EnergyChartsAPI
+Type: Package
+Title: R Interface to the Energy Charts API
+Version: 0.1.0
+Author: Sebastian Kranz
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
+Description: R Interface to the Energy Charts API
+License: GPL >= 3
+Encoding: UTF-8
+Depends: httr, jsonlite, dplyr
+LazyData: true
