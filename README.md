@@ -21,6 +21,7 @@ price_dat = energy_charts_get_data("price", start = "2024-01-01",end="2024-01-01
 
 
 ## Installation
+
 ```
-devtools::install_github("skranz/
+install.packages("EnergyChartsAPI", repos = c("https://skranz.r-universe.dev", "https://cloud.r-project.org"))
 ```
